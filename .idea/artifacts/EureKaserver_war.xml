@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EureKaserver:war">
+    <output-path>$PROJECT_DIR$/EureKaserver/target</output-path>
+    <root id="archive" name="SpringCloud.war">
+      <element id="artifact" artifact-name="EureKaserver:war exploded" />
+    </root>
+  </artifact>
+</component>
