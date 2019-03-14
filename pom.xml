@@ -10,6 +10,7 @@
   <modules>
     <module>EureKaserver</module>
     <module>servicemember</module>
+      <module>sercice-order</module>
   </modules>
   <packaging>pom</packaging>
 

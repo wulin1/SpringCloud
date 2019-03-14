@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Cloud" />
     <file type="web" url="file://$PROJECT_DIR$/EureKaserver" />
+    <file type="web" url="file://$PROJECT_DIR$/sercice-order" />
     <file type="web" url="file://$PROJECT_DIR$/servicemember" />
   </component>
   <component name="MavenProjectsManager">

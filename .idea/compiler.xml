@@ -7,12 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="EureKaserver" />
+        <module name="sercice-order" />
         <module name="servicemember" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Cloud" target="1.7" />
       <module name="EureKaserver" target="1.8" />
+      <module name="sercice-order" target="1.8" />
+      <module name="serciceorder" target="1.5" />
       <module name="servicemember" target="1.8" />
       <module name="SpringCloud" target="1.5" />
     </bytecodeTargetLevel>
