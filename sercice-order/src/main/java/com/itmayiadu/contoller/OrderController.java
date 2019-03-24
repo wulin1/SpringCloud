@@ -17,5 +17,9 @@ public class OrderController {
         System.out.println("调用会员服务");
         return  orderMemberService.getOrderByUserList();
     }
+    @RequestMapping("/OrderMemberServiceApi")
+        public String OrderMemberServiceApi(){
+        return "是个order工程";
+        }
 
 }

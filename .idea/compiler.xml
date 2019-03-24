@@ -6,16 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="EureKaserver" />
         <module name="sercice-order" />
-        <module name="servicemember" />
+        <module name="service-member" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Cloud" target="1.7" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="EureKaserver" target="1.8" />
       <module name="sercice-order" target="1.8" />
       <module name="serciceorder" target="1.5" />
+      <module name="service-member" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="servicemember" target="1.8" />
       <module name="SpringCloud" target="1.5" />
     </bytecodeTargetLevel>

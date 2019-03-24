@@ -2,8 +2,12 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Cloud" />
+    <file type="web" url="file://$PROJECT_DIR$/config-client" />
+    <file type="web" url="file://$PROJECT_DIR$/config-server" />
     <file type="web" url="file://$PROJECT_DIR$/EureKaserver" />
     <file type="web" url="file://$PROJECT_DIR$/sercice-order" />
+    <file type="web" url="file://$PROJECT_DIR$/service-member" />
+    <file type="web" url="file://$PROJECT_DIR$/service-zuul" />
     <file type="web" url="file://$PROJECT_DIR$/servicemember" />
   </component>
   <component name="MavenProjectsManager">
@@ -15,6 +19,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/servicemember/pom.xml" />
       </set>
     </option>
   </component>

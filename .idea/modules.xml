@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EureKaserver/EureKaserver.iml" filepath="$PROJECT_DIR$/EureKaserver/EureKaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/sercice-order/sercice-order.iml" filepath="$PROJECT_DIR$/sercice-order/sercice-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/servicemember/servicemember.iml" filepath="$PROJECT_DIR$/servicemember/servicemember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-member/service-member.iml" filepath="$PROJECT_DIR$/service-member/service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>
