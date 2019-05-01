@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EureKaserver/EureKaserver.iml" filepath="$PROJECT_DIR$/EureKaserver/EureKaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EureKa-server/EureKaserver.iml" filepath="$PROJECT_DIR$/EureKa-server/EureKaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />

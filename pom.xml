@@ -8,8 +8,8 @@
   <artifactId>SpringCloud</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>EureKaserver</module>
-    <module>servicemember</module>
+    <module>EureKa-server</module>
+    <module>service-member</module>
       <module>sercice-order</module>
       <module>service-zuul</module>
     <module>config-server</module>

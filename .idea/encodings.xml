@@ -2,12 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/EureKaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EureKa-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sercice-order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-zuul" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/servicemember" charset="UTF-8" />
   </component>
 </project>

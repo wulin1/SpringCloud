@@ -128,7 +128,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/EureKaserver/target/EureKaserver-1.5.2.RELEASE/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/EureKa-server/target/EureKaserver-1.5.2.RELEASE/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="EureKaserver/web/Web" />
     </root>
